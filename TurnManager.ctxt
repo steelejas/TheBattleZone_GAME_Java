@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TurnManager
+comment0.text=\r\n\ Manages\ turns.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=p\ o
+comment1.target=TurnManager(Character,\ Character)
+comment2.params=
+comment2.target=boolean\ playerTurn()
+comment3.params=
+comment3.target=void\ opponentTurn()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Carey
+comment0.text=\r\n\ Carey\ Fangbattle,\ proud\ dragonborn\ rogue.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=
+comment1.target=Carey()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Carey\r\n
+comment2.params=playerName
+comment2.target=void\ challenge(java.lang.String)
+comment3.params=opponentName
+comment3.target=void\ forfeit(java.lang.String)
+numComments=4

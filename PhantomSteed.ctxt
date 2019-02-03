@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PhantomSteed
+comment0.text=\r\n\ Spell\ that\ summons\ a\ large\ quasi-real\ spectral\ horse-like\ creature.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=u
+comment1.target=PhantomSteed(Character)
+comment2.params=user\ target
+comment2.target=void\ useMessage(Character,\ Character)
+comment3.params=user\ target
+comment3.target=void\ executeGeneralEffect(Character,\ Character)
+numComments=4

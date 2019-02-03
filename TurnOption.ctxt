@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TurnOption
+comment0.text=\r\n\ An\ option\ on\ the\ menu\ the\ player\ sees\ at\ the\ start\ of\ their\ turn,\ End\ Turn\ by\ default\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=user\ target
+comment2.target=boolean[]\ execute(Character,\ Character)
+numComments=3

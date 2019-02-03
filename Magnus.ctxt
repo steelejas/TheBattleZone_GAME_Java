@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Magnus
+comment0.text=\r\n\ Magnus\ Hyphen\ Terry\ "The\ Hammer"\ Burnsides,\ human\ fighter-rogue\ and\ folk\ hero.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/5/18\r\n
+comment1.params=
+comment1.target=Magnus()
+comment2.params=playerName
+comment2.target=void\ challenge(java.lang.String)
+comment3.params=opponentName
+comment3.target=void\ forfeit(java.lang.String)
+numComments=4

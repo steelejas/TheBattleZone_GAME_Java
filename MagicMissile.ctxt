@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MagicMissile
+comment0.text=\r\n\ Spell\ that\ blasts\ target\ with\ magic\ missiles.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=u
+comment1.target=MagicMissile(Character)
+comment2.params=
+comment2.target=int\ rollDamage()
+comment3.params=user\ target
+comment3.target=void\ useMessage(Character,\ Character)
+numComments=4

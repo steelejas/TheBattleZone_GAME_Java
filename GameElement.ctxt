@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameElement
+comment0.text=\r\n\ Anything\ that\ needs\ to\ roll\ dice\ or\ choose\ from\ a\ list.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=numChoices
+comment1.target=int\ chooseRandomlyFrom(int)
+comment2.params=numChoices
+comment2.target=int\ chooseFrom(int)
+comment3.params=
+comment3.target=int\ d2()
+comment4.params=
+comment4.target=int\ d3()
+comment5.params=
+comment5.target=int\ d4()
+comment6.params=
+comment6.target=int\ d6()
+comment7.params=
+comment7.target=int\ d8()
+comment8.params=
+comment8.target=int\ d12()
+comment9.params=
+comment9.target=int\ d20()
+numComments=10

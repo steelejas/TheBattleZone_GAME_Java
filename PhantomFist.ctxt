@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PhantomFist
+comment0.text=\r\n\ Glove\ that\ knocks\ back\ the\ target.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=u
+comment1.target=PhantomFist(Character)
+comment2.params=
+comment2.target=int\ rollDamage()
+comment3.params=user\ target
+comment3.target=void\ useMessage(Character,\ Character)
+comment4.params=user\ target
+comment4.target=void\ executeHitEffect(Character,\ Character)
+numComments=5

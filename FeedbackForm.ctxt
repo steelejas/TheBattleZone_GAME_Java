@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FeedbackForm
+comment0.text=\r\n\ Collects\ user\ feedback.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=p\ o
+comment1.target=FeedbackForm(Character,\ Character)
+comment2.params=
+comment2.target=void\ getFeedback()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameRunner
+comment0.text=\r\n\ Title\ of\ application\:\ The\ Battle\ Zone\r\n\ Created\ by\:\ Jasmine\ Steele\r\n\ Date\:\ Spring\ 2018\ --\ Semester\ 2\r\n\ Period\:\ 2\r\n\ Course\:\ AP\ Computer\ Science\ A\ (Java\ Computer\ Programming)\r\n\ Purpose\:\ Create\ a\ turn-based\ fighting\ game.\r\n\ Academic\ Honesty\ Statement\:\ All\ code\ in\ this\ project\ is\ my\ own\ work,\ referencing\ Oracle's\ Java\ documentation\ and\ Tony\ Gaddis'\ "Starting\ Out\ With\ Java"\ textbook.\r\n\ Characters\ and\ locations\ mentioned\ in\ this\ project\ are\ from\ the\ podcast\ "The\ Adventure\ Zone"\ by\ Griffin\ McElroy\ &\ family.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

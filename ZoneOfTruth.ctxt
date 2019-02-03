@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ZoneOfTruth
+comment0.text=\r\n\ Spell\ that\ forces\ the\ target\ to\ tell\ the\ truth.\r\n\r\n\ @author\ Jasmine\ Steele\r\n\ @version\ 5/12/18\r\n
+comment1.params=u
+comment1.target=ZoneOfTruth(Character)
+comment2.params=user\ target
+comment2.target=void\ useMessage(Character,\ Character)
+comment3.params=userName\ targetName
+comment3.target=void\ showRxn(java.lang.String,\ java.lang.String)
+comment4.params=userName\ targetName
+comment4.target=void\ showFailedRxn(java.lang.String,\ java.lang.String)
+numComments=5
