@@ -1,2 +1,6 @@
 # TheBattleZone_GAME_Java
-Text-based fighting game based on Dungeons &amp; Dragons podcast "The Adventure Zone"
+
+The Battle Zone is a text-based fighting game based on popular Dungeons & Dragons podcast "The Adventure Zone."
+
+Game by Jasmine Steele
+The Adventure Zone Podcast by Griffin, Justin, Travis, and Clint McElroy
